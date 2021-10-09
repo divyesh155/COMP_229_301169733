@@ -1,0 +1,19 @@
+{
+  "name": "comp_229_301169733",
+  "version": "1.0.0",
+  "description": "demo for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyesh155/COMP_229_301169733.git"
+  },
+  "author": "301169733",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyesh155/COMP_229_301169733/issues"
+  },
+  "homepage": "https://github.com/divyesh155/COMP_229_301169733#readme"
+}
